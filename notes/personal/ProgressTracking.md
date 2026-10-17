@@ -50,4 +50,6 @@ end :
 task completed
     - creation of Figma Design
     - LLD creation completed (17-10-2026 11.54 AM)
+    - database design complete
+    - setting up spring environment complete
 
