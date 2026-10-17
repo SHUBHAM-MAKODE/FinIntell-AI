@@ -30,10 +30,11 @@ day 3: 17-10-2026
 
 Todays task : 
     - creating LLD
+    - creation of sample Figma Design for software application
+    - database design
     - setting up environment and setting up different project modules like frontend, backend, design, documentation, etc
     - setting next.js and react.js environment -> frontend
     - setting spring boot environment -> backend
-    - creation of sample Figma Design for software application
 
 time boxed execution:
     - setting up frontend details
@@ -42,10 +43,11 @@ time boxed execution:
     - creating scaffolding for frontend
 
 start :10.07 AM
-bstart :
-bend :
+bstart:12.11 PM
+bend : 01.55 PM
 end :
 
 task completed
     - creation of Figma Design
-    
+    - LLD creation completed (17-10-2026 11.54 AM)
+
