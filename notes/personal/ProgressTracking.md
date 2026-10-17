@@ -45,7 +45,7 @@ time boxed execution:
 start :10.07 AM
 bstart:12.11 PM
 bend : 02.30 PM
-end :
+end : 05.27 PM
 
 task completed
     - creation of Figma Design
