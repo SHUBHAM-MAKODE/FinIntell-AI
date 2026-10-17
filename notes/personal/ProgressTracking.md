@@ -38,13 +38,13 @@ Todays task :
 
 time boxed execution:
     - setting up frontend details
-    - implementing security -> backend
+    - implementing security -> backend 
     - basic api setup  -> backend
     - creating scaffolding for frontend
 
 start :10.07 AM
 bstart:12.11 PM
-bend : 01.55 PM
+bend : 02.30 PM
 end :
 
 task completed
@@ -52,4 +52,15 @@ task completed
     - LLD creation completed (17-10-2026 11.54 AM)
     - database design complete
     - setting up spring environment complete
+    - spring scaaffold creation [done]
+    - implementing spring security [done]
+    - CORS configuration [done]
+    - DB configurations [done]
+
+pending
+    - implementing jwt
+    - flyway configurations
+    - etc
+
+
 
